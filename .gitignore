@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py,cover
+venv/
+env/
+ENV/
+.env
+.env.db
+
+# Database
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local uploads
+/app/static/qrcodes/
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Testing
+.coverage
+htmlcov/
+
+# OS generated
+Thumbs.db
+.DS_Store
